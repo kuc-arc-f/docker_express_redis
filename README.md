@@ -6,7 +6,7 @@
 
  date    : 2020/10/30
 
- update : 
+ update :  2020/11/01
 
 ***
 
@@ -15,6 +15,7 @@ docker sample , nginx + express + Redis
 ***
 ### blog
 
+https://note.com/knaka0209/n/nb980c4c87470
 
 ***
 
